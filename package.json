@@ -9,6 +9,6 @@
   "author": "jorgenlybeck",
   "license": "ISC",
   "dependencies": {
-    "@slack/bolt": "^2.4.1",
+    "@slack/bolt": "^2.4.1"
   }
 }
